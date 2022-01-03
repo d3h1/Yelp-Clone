@@ -1,8 +1,15 @@
+# Restaurant Finder
+Repository for yelp clone demo
+
 ## Author
 |   Name
 | :------------: 
 | Deni Cabaravdic
 
+## Project Description
+Creating a clone of yelp using Postgres, Express, React, and NodeJS
+
+## Dependencies
 | Command | Description |
 | :---: | :------: |
 |npm init -y| Initializes Node inside of the project directory |
