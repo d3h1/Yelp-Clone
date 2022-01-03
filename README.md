@@ -1,5 +1,4 @@
 # Restaurant Finder
-Repository for yelp clone demo
 
 ## Author
 |   Name
