@@ -11,3 +11,4 @@
 |create-react-app |Creates a React app in project directory|
 |npm i react-router-dom |Used to create React Routes for the different web-pages|
 |npm i cors |Middleware that allows fetch requests from other domains(allows our front-end on a different local host to send a request to this local host)|
+|npm i axios |Used for http requests
