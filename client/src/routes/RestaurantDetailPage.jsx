@@ -26,6 +26,7 @@ const RestaurantDetailPage = () => {
     fetchData()
   }, [])
 
+  // I want to also show the users review on either food or restaurant, like they can review the food along with restaurant
   return (
     <div>
       {selectedRestaurant && (
