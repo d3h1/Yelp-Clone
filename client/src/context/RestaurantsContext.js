@@ -3,6 +3,7 @@ import React, { useState, createContext } from "react";
 
 export const RestaurantsContext = createContext();
 
+// Keeping the ratings dynamic
 export const RestaurantsContextProvider = (props) => {
   const [restaurants, setRestaurants] = useState([]);
   const [selectedRestaurant, setSelectedRestaurant] = useState(null)
